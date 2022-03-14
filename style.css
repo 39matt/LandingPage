@@ -126,3 +126,23 @@ button {
     border: 3px solid #3882F6;
     border-radius: 15px;
 }
+
+.third {
+    display: flex;
+    flex-flow: column wrap;
+}
+
+.third .quote {
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+}
+
+.signature {
+    align-self: flex-end;
+}
+
+.container-third {
+    background-color: #E5E7EB;
+    padding: 100px 50px;
+}
