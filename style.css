@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    flex-flow: column nowrap;
+}
+
+.header,
+.footer {
+    background-color: #1F2937;
+    color: white;
+    padding: 0 25px;
+}
+
+.footer {
+    text-align: center;
+}
+
+.container-header {
+    margin: 0 15%;
+    display: flex;
+    justify-content: space-between;
+}
+
+ul {
+    display: flex;
+    gap: 30px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+li {
+    list-style: none;
+}
+
+.first {
+
+}
