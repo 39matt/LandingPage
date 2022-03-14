@@ -93,5 +93,5 @@ button {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: rgb(161, 161, 161);
+    background-color: rgba(161, 161, 161, 0.5);
 }
